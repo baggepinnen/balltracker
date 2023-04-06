@@ -1,0 +1,10 @@
+name = "balltracker"
+uuid = "73c233c3-0d05-441b-a527-8be37964ede8"
+authors = ["baggepinnen"]
+version = "0.1.0"
+
+[deps]
+ImageDraw = "4381153b-2b60-58ae-a1ba-fd683676385f"
+ImageView = "86fae568-95e7-573e-a6b2-d8a6b900c9ef"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+VideoIO = "d6d074c3-1acf-5d4c-9a43-ef38773959a2"
